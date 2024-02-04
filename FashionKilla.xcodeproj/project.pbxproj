@@ -7,18 +7,53 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF72FC542B6F34E5006B1BDF /* Shirt.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF72FC532B6F34E5006B1BDF /* Shirt.swift */; };
+		BF9257DE2B6EDC5100C0FB8E /* TShirt.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF9257DD2B6EDC5100C0FB8E /* TShirt.swift */; };
 		BFC557632B6DEB93004B80F5 /* FashionKillaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC557622B6DEB93004B80F5 /* FashionKillaApp.swift */; };
 		BFC557652B6DEB93004B80F5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC557642B6DEB93004B80F5 /* ContentView.swift */; };
-		BFC557672B6DEB94004B80F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFC557662B6DEB94004B80F5 /* Assets.xcassets */; };
-		BFC5576A2B6DEB94004B80F5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFC557692B6DEB94004B80F5 /* Preview Assets.xcassets */; };
+		BFC557712B6DEC1B004B80F5 /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC557702B6DEC1B004B80F5 /* ARViewContainer.swift */; };
+		BFC557732B6DEDBE004B80F5 /* BodyJoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC557722B6DEDBE004B80F5 /* BodyJoint.swift */; };
+		BFC557752B6DEE0F004B80F5 /* BodyLimb.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC557742B6DEE0F004B80F5 /* BodyLimb.swift */; };
+		BFC557792B6DF116004B80F5 /* BodyParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC557782B6DF116004B80F5 /* BodyParts.swift */; };
+		BFC5577B2B6DF559004B80F5 /* BodySkeleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC5577A2B6DF559004B80F5 /* BodySkeleton.swift */; };
+		BFDC41F82B6F23D700CADFE8 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC41F72B6F23D700CADFE8 /* HomeView.swift */; };
+		BFDC41FA2B6F255700CADFE8 /* ClothingRecommender.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC41F92B6F255700CADFE8 /* ClothingRecommender.swift */; };
+		BFDC42052B6F256800CADFE8 /* TextImageProviding.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC41FB2B6F256800CADFE8 /* TextImageProviding.swift */; };
+		BFDC42062B6F256800CADFE8 /* FavoriteWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC41FC2B6F256800CADFE8 /* FavoriteWrapper.swift */; };
+		BFDC42072B6F256800CADFE8 /* CardsStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC41FD2B6F256800CADFE8 /* CardsStackView.swift */; };
+		BFDC42082B6F256800CADFE8 /* SmallCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC41FE2B6F256800CADFE8 /* SmallCardView.swift */; };
+		BFDC42092B6F256800CADFE8 /* RecommendationStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC41FF2B6F256800CADFE8 /* RecommendationStore.swift */; };
+		BFDC420A2B6F256800CADFE8 /* SectionTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC42002B6F256800CADFE8 /* SectionTitleView.swift */; };
+		BFDC420B2B6F256800CADFE8 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC42012B6F256800CADFE8 /* CardView.swift */; };
+		BFDC420C2B6F256800CADFE8 /* RecommendationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC42022B6F256800CADFE8 /* RecommendationsView.swift */; };
+		BFDC420E2B6F256800CADFE8 /* MainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFDC42042B6F256800CADFE8 /* MainViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BF72FC532B6F34E5006B1BDF /* Shirt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shirt.swift; sourceTree = "<group>"; };
+		BF9257DD2B6EDC5100C0FB8E /* TShirt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TShirt.swift; sourceTree = "<group>"; };
 		BFC5575F2B6DEB93004B80F5 /* FashionKilla.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FashionKilla.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFC557622B6DEB93004B80F5 /* FashionKillaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FashionKillaApp.swift; sourceTree = "<group>"; };
 		BFC557642B6DEB93004B80F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BFC557662B6DEB94004B80F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFC557692B6DEB94004B80F5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BFC557702B6DEC1B004B80F5 /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
+		BFC557722B6DEDBE004B80F5 /* BodyJoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyJoint.swift; sourceTree = "<group>"; };
+		BFC557742B6DEE0F004B80F5 /* BodyLimb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyLimb.swift; sourceTree = "<group>"; };
+		BFC557782B6DF116004B80F5 /* BodyParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyParts.swift; sourceTree = "<group>"; };
+		BFC5577A2B6DF559004B80F5 /* BodySkeleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodySkeleton.swift; sourceTree = "<group>"; };
+		BFDC41F72B6F23D700CADFE8 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		BFDC41F92B6F255700CADFE8 /* ClothingRecommender.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClothingRecommender.swift; sourceTree = "<group>"; };
+		BFDC41FB2B6F256800CADFE8 /* TextImageProviding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextImageProviding.swift; sourceTree = "<group>"; };
+		BFDC41FC2B6F256800CADFE8 /* FavoriteWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoriteWrapper.swift; sourceTree = "<group>"; };
+		BFDC41FD2B6F256800CADFE8 /* CardsStackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardsStackView.swift; sourceTree = "<group>"; };
+		BFDC41FE2B6F256800CADFE8 /* SmallCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SmallCardView.swift; sourceTree = "<group>"; };
+		BFDC41FF2B6F256800CADFE8 /* RecommendationStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecommendationStore.swift; sourceTree = "<group>"; };
+		BFDC42002B6F256800CADFE8 /* SectionTitleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SectionTitleView.swift; sourceTree = "<group>"; };
+		BFDC42012B6F256800CADFE8 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		BFDC42022B6F256800CADFE8 /* RecommendationsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecommendationsView.swift; sourceTree = "<group>"; };
+		BFDC42042B6F256800CADFE8 /* MainViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
+		BFDC420F2B6F257500CADFE8 /* shirts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = shirts.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +88,25 @@
 			children = (
 				BFC557622B6DEB93004B80F5 /* FashionKillaApp.swift */,
 				BFC557642B6DEB93004B80F5 /* ContentView.swift */,
+				BFDC41F72B6F23D700CADFE8 /* HomeView.swift */,
+				BFDC41F92B6F255700CADFE8 /* ClothingRecommender.swift */,
+				BFC557702B6DEC1B004B80F5 /* ARViewContainer.swift */,
+				BF9257DD2B6EDC5100C0FB8E /* TShirt.swift */,
+				BFDC41FD2B6F256800CADFE8 /* CardsStackView.swift */,
+				BFDC42012B6F256800CADFE8 /* CardView.swift */,
+				BFDC41FC2B6F256800CADFE8 /* FavoriteWrapper.swift */,
+				BFDC42042B6F256800CADFE8 /* MainViewModel.swift */,
+				BFDC41FF2B6F256800CADFE8 /* RecommendationStore.swift */,
+				BFDC42022B6F256800CADFE8 /* RecommendationsView.swift */,
+				BF72FC532B6F34E5006B1BDF /* Shirt.swift */,
+				BFDC42002B6F256800CADFE8 /* SectionTitleView.swift */,
+				BFDC41FE2B6F256800CADFE8 /* SmallCardView.swift */,
+				BFDC41FB2B6F256800CADFE8 /* TextImageProviding.swift */,
+				BFC557722B6DEDBE004B80F5 /* BodyJoint.swift */,
+				BFDC420F2B6F257500CADFE8 /* shirts.json */,
+				BFC557742B6DEE0F004B80F5 /* BodyLimb.swift */,
+				BFC557782B6DF116004B80F5 /* BodyParts.swift */,
+				BFC5577A2B6DF559004B80F5 /* BodySkeleton.swift */,
 				BFC557662B6DEB94004B80F5 /* Assets.xcassets */,
 				BFC557682B6DEB94004B80F5 /* Preview Content */,
 			);
@@ -125,8 +179,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BFC5576A2B6DEB94004B80F5 /* Preview Assets.xcassets in Resources */,
-				BFC557672B6DEB94004B80F5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +189,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFC557732B6DEDBE004B80F5 /* BodyJoint.swift in Sources */,
+				BFC557752B6DEE0F004B80F5 /* BodyLimb.swift in Sources */,
+				BFC557792B6DF116004B80F5 /* BodyParts.swift in Sources */,
 				BFC557652B6DEB93004B80F5 /* ContentView.swift in Sources */,
+				BFDC420A2B6F256800CADFE8 /* SectionTitleView.swift in Sources */,
+				BFDC41F82B6F23D700CADFE8 /* HomeView.swift in Sources */,
+				BFDC420B2B6F256800CADFE8 /* CardView.swift in Sources */,
+				BFC5577B2B6DF559004B80F5 /* BodySkeleton.swift in Sources */,
+				BF9257DE2B6EDC5100C0FB8E /* TShirt.swift in Sources */,
+				BF72FC542B6F34E5006B1BDF /* Shirt.swift in Sources */,
 				BFC557632B6DEB93004B80F5 /* FashionKillaApp.swift in Sources */,
+				BFDC42062B6F256800CADFE8 /* FavoriteWrapper.swift in Sources */,
+				BFDC42072B6F256800CADFE8 /* CardsStackView.swift in Sources */,
+				BFDC42052B6F256800CADFE8 /* TextImageProviding.swift in Sources */,
+				BFDC42082B6F256800CADFE8 /* SmallCardView.swift in Sources */,
+				BFDC41FA2B6F255700CADFE8 /* ClothingRecommender.swift in Sources */,
+				BFC557712B6DEC1B004B80F5 /* ARViewContainer.swift in Sources */,
+				BFDC42092B6F256800CADFE8 /* RecommendationStore.swift in Sources */,
+				BFDC420C2B6F256800CADFE8 /* RecommendationsView.swift in Sources */,
+				BFDC420E2B6F256800CADFE8 /* MainViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +342,8 @@
 				DEVELOPMENT_TEAM = S3M269KQRH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FashionKilla/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Access to camera?";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -301,6 +373,8 @@
 				DEVELOPMENT_TEAM = S3M269KQRH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FashionKilla/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Access to camera?";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

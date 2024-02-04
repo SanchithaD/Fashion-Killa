@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B483E3DD-0B36-4385-808F-B832E05651A1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB991787-0C0F-480F-8C7B-1B927362C75B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FashionKilla/BodySkeleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "init(for:shirtName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB991787-0C0F-480F-8C7B-1B927362C75B - 7e68df3075a3bde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FashionKilla.BodySkeleton.init(for: __C.ARBodyAnchor) -&gt; FashionKilla.BodySkeleton"
+                  moduleName = "FashionKilla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanchud/FashionKilla/FashionKilla/BodySkeleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "4980">
+               </Location>
+               <Location
+                  uuid = "BB991787-0C0F-480F-8C7B-1B927362C75B - 7e68df3075a3a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FashionKilla.BodySkeleton.init(for: __C.ARBodyAnchor) -&gt; FashionKilla.BodySkeleton"
+                  moduleName = "FashionKilla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanchud/FashionKilla/FashionKilla/BodySkeleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "5068">
+               </Location>
+               <Location
+                  uuid = "BB991787-0C0F-480F-8C7B-1B927362C75B - 7e68df3075a3a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FashionKilla.BodySkeleton.init(for: __C.ARBodyAnchor) -&gt; FashionKilla.BodySkeleton"
+                  moduleName = "FashionKilla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanchud/FashionKilla/FashionKilla/BodySkeleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "5132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6492117C-9A28-445C-BC28-628EB281C9E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FashionKilla/BodySkeleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "init(for:shirtName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D53A225-D619-4F54-829A-BF1C83E397CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FashionKilla/BodySkeleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "update(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "479BEFFE-4F2C-4A82-8DDD-4259FC10B67C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FashionKilla/BodySkeleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "init(for:shirtName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "479BEFFE-4F2C-4A82-8DDD-4259FC10B67C - 7e68df3075a3a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FashionKilla.BodySkeleton.init(for: __C.ARBodyAnchor) -&gt; FashionKilla.BodySkeleton"
+                  moduleName = "FashionKilla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanchud/FashionKilla/FashionKilla/BodySkeleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "5068">
+               </Location>
+               <Location
+                  uuid = "479BEFFE-4F2C-4A82-8DDD-4259FC10B67C - 7e68df3075a3a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FashionKilla.BodySkeleton.init(for: __C.ARBodyAnchor) -&gt; FashionKilla.BodySkeleton"
+                  moduleName = "FashionKilla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanchud/FashionKilla/FashionKilla/BodySkeleton.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "5132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BD3B231-FB4E-403D-BC09-69D2AE3E17E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FashionKilla/BodySkeleton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "init(for:shirtName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
